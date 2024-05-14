@@ -1,3 +1,3 @@
-# You can ignore this repo please!
+# Google Colab Notebooks
 
-This is a testing repository, and there is nothing that's useful in this! 
+Here, I'll be uploading the Notebooks where I practiced Machine Learning, ML libraries, datasets and all!
